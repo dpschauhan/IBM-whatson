@@ -1,1 +1,1 @@
-# IBM-wharson
+# IBM-whatson
